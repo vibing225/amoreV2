@@ -1,7 +1,7 @@
 # Amore Mio: restructure project (instructions for the AI)
 
 ## 1. Goal
-Amore Mio is an artisan ice cream shop in Conakry, Guinea. The website works but the PHP behind it is badly structured. Your job: **rebuild the backend cleanly in structured PHP, and keep the front-end look exactly as it is.**
+Amore Mio is an artisan ice cream shop in Conakry, Guinea. The website works but the PHP behind it is badly structured. Your job: **rebuild the backend cleanly in structuredPHP, andkeep the front-end look exactly as it is.**
 
 Success = the site looks pixel-identical to today, but the code behind it is clean, secure, organized and light enough for hosting.
 
