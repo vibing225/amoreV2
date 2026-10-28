@@ -1,0 +1,20 @@
+# Secrets and dependencies
+.env
+vendor/
+composer.phar
+composer-setup.php
+
+# Runtime data (never commit, never web-accessible)
+storage/*.sqlite
+storage/*.sqlite-journal
+storage/logs/*
+storage/sessions/*
+!storage/logs/.gitkeep
+!storage/sessions/.gitkeep
+
+# Operating system and editor files
+.DS_Store
+Thumbs.db
+Desktop.ini
+.vscode/
+.idea/
